@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+scikit-learn
+typer[all]
+jinja2
+matplotlib
